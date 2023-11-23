@@ -10,13 +10,13 @@ technologie & innovatie.<br> Neem gerust een kijkje ([https://github.com/joshmad
 
 <h2>👨‍💻 Development Skillset: </h2>
 
-<h3>Goede kennis</h3>
+<h3>Goede kennis:</h3>
 
 <b>HTML & CSS</b><br>
 <b>Javascript</b><br>
 <b>React</b>
 
-<h3>Gewone kennis</h3>
+<h3>Matige kennis:</h3>
 
 <b>PHP</b><br>
 <b>C#</b>
