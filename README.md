@@ -4,7 +4,7 @@
 Ik ben Robin Martens 24 jaar en student aan Howest, richting DEVINE.
 
 - 🔭 Ik ben momenteel aan het werken aan mijn Bachelorproef in samenwerking met FTI. Het project dat we willen verwezelijken noemt FTI by Hangar K en is een 6-Daags festival over
-technologie & innovatie.<br> Neem gerust een kijkje ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/robinmartenssss/FTI-Bachelorproef)
+technologie & innovatie.<br> Neem gerust een kijkje ([Bachelorproef](https://github.com/robinmartenssss/FTI-Bachelorproef)
 - 🌱 Ik ben momenteel <b>Unity & Next JS</b> aan het leren!
 - 👯 Ik ben op zoek naar een leuke stageplek waar ik veel kan bijleren omtrent <b>Design & Development</b>. Hopelijk kan ik hier en daar ook een steentje bijdragen aan bepaalde projecten en er een toffe/leerrijke periode van maken.
 
