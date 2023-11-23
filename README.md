@@ -34,6 +34,9 @@ technologie & innovatie.<br> Neem gerust een kijkje ([https://github.com/joshmad
   - > Eerst scrollen naar links tot einde, dan naar onder, dan weer naar links. (Werkt met mousepad van macbook) 
   - [Saxofoon MIM](http://designs-martens.be/int3/)
   - To Do - Fixing this website.
+    
+- <b> TICZ Website</b>
+  - [Ticz community]( https://designs-martens.be/Int1_BNW)
 
 <h2>📺 Dingen die ik wil leren</h2>
 
