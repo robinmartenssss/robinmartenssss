@@ -7,6 +7,7 @@ Ik ben Robin Martens 24 jaar en student aan Howest, richting DEVINE.
 technologie & innovatie.<br> Neem gerust een kijkje [Bachelorproef](https://github.com/robinmartenssss/FTI-Bachelorproef)
 - 🌱 Ik ben momenteel <b>Unity & Next JS</b> aan het leren!
 - 👯 Ik ben op zoek naar een leuke stageplek waar ik veel kan bijleren omtrent <b>Design & Development</b>. Hopelijk kan ik hier en daar ook een steentje bijdragen aan bepaalde projecten en er een toffe/leerrijke periode van maken.
+- Mijn kennis van Design en Research helpt me bij het ontwikkelen van applicaties die perfect aansluiten bij de verwachtingen van de gebruiker. Hoewel mijn focus ligt op development, komt mijn achtergrond in design goed van pas om een product te creëren dat niet alleen functioneel is, maar ook een uitstekende gebruikerservaring biedt. De user experience is voor mij een belangrijk aspect binnen het developmentproces, en ik streef ernaar om toepassingen te bouwen die zowel technisch sterk als gebruiksvriendelijk zijn.
 
 <h2>👨‍💻 Development Skillset: </h2>
 
@@ -15,6 +16,9 @@ technologie & innovatie.<br> Neem gerust een kijkje [Bachelorproef](https://gith
 <b>HTML & CSS</b><br>
 <b>Javascript</b><br>
 <b>React</b>
+<b>Next JS</b>
+<b>Typescript</b>
+<b>MUI (Material UI)</b>
 
 <h3>Matige kennis:</h3>
 
@@ -22,6 +26,8 @@ technologie & innovatie.<br> Neem gerust een kijkje [Bachelorproef](https://gith
 <b>C#</b>
 
 <h2>👨‍💻 Development Projects:</h2>
+- <b>Stage November Five: meehelpen front end websiite</b>
+  - [NoFomo website](https://nofomo.com/)
 
 - <b>Community website</b>
   - [China Community](https://www.designs-martens.be/int2/ChinaInt2/)
