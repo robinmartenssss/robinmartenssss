@@ -18,10 +18,10 @@ technologie & innovatie.<br> Neem gerust een kijkje [Bachelorproef](https://gith
 
 <b>HTML & CSS</b><br>
 <b>Javascript</b><br>
-<b>React</b>
-<b>Next JS</b>
-<b>Typescript</b>
-<b>MUI (Material UI)</b>
+<b>React</b><br>
+<b>Next JS</b><br>
+<b>Typescript</b><br>
+<b>MUI (Material UI)</b><br>
 
 <h3>Matige kennis:</h3>
 
