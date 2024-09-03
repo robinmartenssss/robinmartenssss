@@ -26,8 +26,9 @@ technologie & innovatie.<br> Neem gerust een kijkje [Bachelorproef](https://gith
 <b>C#</b>
 
 <h2>👨‍💻 Development Projects:</h2>
-- <b>Stage November Five: meehelpen front end websiite</b>
-  - [NoFomo website](https://nofomo.com/)
+
+- <b>Stage November Five: meehelpen front end website</b>
+  - [NoFomo Website](https://nofomo.com/)
 
 - <b>Community website</b>
   - [China Community](https://www.designs-martens.be/int2/ChinaInt2/)
